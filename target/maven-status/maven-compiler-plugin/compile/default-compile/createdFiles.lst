@@ -1,0 +1,6 @@
+domain/Actor.class
+rest/FilmResources.class
+domain/Film.class
+rest/TestRest.class
+rest/ApplicationConfig.class
+domain/service/FilmService.class
